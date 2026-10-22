@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/python:3.12",
   "features": {
     // 第3回の Pi デモ・発展課題用
-    "ghcr.io/devcontainers/features/node:1": { "version": "lts" }
+    "ghcr.io/devcontainers/features/node:1": { "version": "24.22.1" }
   },
   "containerEnv": {
     "PYDANTIC_AI_NO_BANNER": "1",
